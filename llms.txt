@@ -1,0 +1,9 @@
+# K Suites
+
+> K Suites — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/ksuites/
+
+## Pages
+
+- [K Suites](https://singaporenewproperty.github.io/ksuites/): K Suites property information.
